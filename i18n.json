@@ -1,0 +1,701 @@
+{
+  "es": {
+    "meta": {
+      "title": "Indiana Kite Tribe · Downwind 2026 · Cumbuco a Jeri",
+      "description": "5 días downwind por la costa de Ceará. Briefing diario, guías, 4x4 y logística completa. 6-10 oct y 10-14 nov 2026."
+    },
+    "nav": {
+      "experiencia": "Experiencia",
+      "tramos": "Tramos",
+      "diferente": "Tribe",
+      "incluye": "Incluye",
+      "itinerario": "Itinerario",
+      "wa": "WhatsApp",
+      "menu": "Abrir menú",
+      "v1": "Ver v1"
+    },
+    "hero": {
+      "brand": "Indiana Kite Tribe",
+      "route": "Cumbuco → Jericoacoara",
+      "meta": "5 días. 242 km.",
+      "windows": "6–10 octubre 2026 · 10–14 noviembre 2026",
+      "cta": "Quiero ser parte de la Tribe Indiana",
+      "lead": "Una de las mejores rutas de kitesurf de Brasil.",
+      "downwind": "Downwind",
+      "oct": "6–10 octubre 2026",
+      "nov": "10–14 noviembre 2026"
+    },
+    "experiencia": {
+      "kicker": "La experiencia",
+      "title": "242 km por la costa de Ceará.",
+      "sub": "Una de las mejores rutas de kitesurf de Brasil.",
+      "p1": "Cinco días recorriendo la costa de Ceará downwind desde Cumbuco hasta Jericoacoara, acompañados por un equipo profesional durante todo el recorrido.",
+      "p2": "Cada mañana comenzamos con un briefing del tramo del día: repasamos la ruta, los puntos de descanso e hidratación, zonas de piedras, trampas de pescadores, sombras de viento y cualquier otro punto importante del recorrido.",
+      "p3": "Capitán en el agua, guías, vehículos 4x4 de apoyo, hospedaje, comidas, hidratación y toda la logística para que vos solo tengas que preocuparte por navegar y disfrutar.",
+      "cta": "Quiero sumarme al downwind"
+    },
+    "tramos": {
+      "kicker": "Cumbuco → Jeri",
+      "title": "Cinco tramos, cinco historias.",
+      "lead": "Cada día tiene su propio recorrido, sus waypoints y su viento.",
+      "leg1": {
+        "km": "41 km",
+        "hook": "El tramo más importante para quien quiere dominar el downwind en el Nordeste.",
+        "body": [
+          "Cumbuco → Paracuru reúne, en un solo día, una enorme variedad de condiciones de viento, mar y geografía. Quien domina este recorrido sale preparado para encarar prácticamente cualquier downwind del Nordeste.",
+          "Salimos de Cumbuco rumbo a Paracuru, pasando por la Laguna de Cauípe, el puerto de Pecém y el spot de olas de Taibinha, hasta llegar a la Laguna de Taíba. Un recorrido que combina velocidad, olas, lagunas y diferentes ángulos de viento."
+        ],
+        "waypoints": [
+          "Laguna de Cauípe",
+          "Puerto de Pecém",
+          "Taibinha",
+          "Laguna de Taíba"
+        ],
+        "wind": "Una enorme variedad de viento, mar y geografía en un solo día.",
+        "dest": "Paracuru · La Petite Mansion Beach Club"
+      },
+      "leg2": {
+        "km": "65 km",
+        "hook": "Salimos de Paracuru, bordeamos por detrás del puerto y llegamos a la desembocadura del Río Curu.",
+        "body": [
+          "A partir de ahí comienza una de las partes más salvajes de la ruta: la playa desierta y paradisíaca de Capim-Açu.",
+          "Llegamos a Lagoinha, nuestra verdadera pista de carreras. Un tramo de viento perfecto, largas sesiones de olas y kilómetros de playa para acelerar.",
+          "Seguimos atravesando paisajes prácticamente intactos y pasamos por la desembocadura del Río Mundaú, uno de los grandes escenarios naturales de la costa, hasta llegar a Praia da Baleia."
+        ],
+        "waypoints": [
+          "Río Curu",
+          "Capim-Açu",
+          "Lagoinha",
+          "Río Mundaú",
+          "Praia da Baleia"
+        ],
+        "wind": "Lagoinha es la pista de carreras: viento perfecto y kilómetros para acelerar.",
+        "dest": "Baleia · posada a confirmar"
+      },
+      "leg3": {
+        "km": "52 km",
+        "hook": "Desde Baleia comienza un largo tramo de playas desiertas y paisajes paradisíacos.",
+        "body": [
+          "Pasamos por pequeñas comunidades de pescadores como Apiques y Caetanos, lugares aislados donde la sensación de estar lejos de todo se vuelve parte de la experiencia.",
+          "En el camino encontramos uno de los puntos más curiosos de la ruta: un antiguo cementerio sobre las dunas, literalmente a pocos metros del mar.",
+          "Continuamos hasta Icaraí de Amontada y Praia de Moitas, siguiendo la costa hasta la desembocadura del Río Aracatiaçu.",
+          "Dependiendo de la marea, podemos entrar en la Lagoa dos Patos, un brazo de mar escondido entre dunas, con agua salada y un pequeño río de agua completamente flat.",
+          "Después de pasar por Praia dos Torrões, seguimos hasta Almofala, donde termina uno de los días más largos y variados de la travesía."
+        ],
+        "waypoints": [
+          "Apiques",
+          "Caetanos",
+          "Cementerio en las dunas",
+          "Icaraí de Amontada",
+          "Praia de Moitas",
+          "Río Aracatiaçu",
+          "Lagoa dos Patos",
+          "Praia dos Torrões"
+        ],
+        "wind": "Si la marea da, se entra a la Lagoa dos Patos: agua salada y un brazo flat entre dunas.",
+        "dest": "Almofala · posada a confirmar"
+      },
+      "leg4": {
+        "km": "32 km",
+        "hook": "Apenas salimos de Almofala encontramos uno de los lugares favoritos de nuestros guías: el famoso Riozinho Mágico.",
+        "body": [
+          "Es un pequeño brazo de agua salada, escondido entre las dunas y protegido del viento. Un lugar secreto que solo se puede encontrar conociendo bien la ruta. El agua queda completamente flat y permite disfrutar de una experiencia totalmente diferente al mar abierto.",
+          "Este tramo es también una preparación para uno de los momentos más especiales del viaje: la llegada a Ilha do Guajiru. Dependiendo de la marea, podemos entrar por dentro de la laguna y atravesar el manglar.",
+          "Después de la pausa, volvemos al mar y encaramos un tramo con una enorme variación de marea hasta llegar a Praia de Arpoeiras, en el municipio de Acaraú.",
+          "Aquí la marea transforma completamente el paisaje. Dependiendo del momento del día, podemos estar navegando prácticamente al lado de la pousada o a varios kilómetros de ella. Es uno de esos lugares que muestran por qué conocer la ruta y saber leer las condiciones es parte fundamental del downwind."
+        ],
+        "waypoints": [
+          "Riozinho Mágico",
+          "Ilha do Guajiru",
+          "Praia de Arpoeiras"
+        ],
+        "wind": "En Arpoeiras la marea cambia todo: al lado de la pousada o a kilómetros.",
+        "dest": "Arpoeiras · posada a confirmar"
+      },
+      "leg5": {
+        "km": "52 km",
+        "hook": "Atención, día con viento MUY FUERTE.",
+        "body": [
+          "El último día es el que nos lleva hacia nuestro objetivo: Jericoacoara.",
+          "Comenzamos el día por las famosas eólicas y entramos en la Barrinha, un escenario paradisíaco de dunas y vegetación de manglar.",
+          "Llegamos al Preá con el viento estallando, spot que está en el hype mundial.",
+          "Saliendo del Preá, navegamos acompañando la carretera hasta Jeri, pasamos por algunos carteles postales vistos desde el mar: el árbol de la pereza, la placa del kitesurf, la Piedra Horadada y la Playa de la Malhada. ¿Ya mencioné que el viento es estúpidamente fuerte?",
+          "Después de la Malhada es preciso seguir en alta mar y tener mucho cuidado en el momento de girar hacia la izquierda, en dirección a Jericoacoara. El viento allí es terral, sopla fuerte offshore. Atención total para girar y posicionar el kite en dirección a la antigua duna del atardecer.",
+          "De ahí llegamos a la villa de pescadores más badalada internacionalmente de Ceará, Jericoacoara.",
+          "Llegar a Jericoacoara navegando desde Cumbuco no es simplemente completar una ruta: es haber aprendido a leer la costa, adaptarse a sus condiciones y dominar uno de los grandes downwinds del Nordeste de Brasil."
+        ],
+        "waypoints": [
+          "Eólicas",
+          "Barrinha",
+          "Preá",
+          "Árbol de la pereza",
+          "Placa del kitesurf",
+          "Piedra Horadada",
+          "Playa de la Malhada"
+        ],
+        "wind": "Después de la Malhada el viento es terral, fuerte offshore. Atención total para girar hacia Jeri.",
+        "dest": "Jericoacoara · posada a confirmar"
+      }
+    },
+    "diferente": {
+      "kicker": "Qué hace diferente a Indiana Kite Tribe",
+      "title": "No es solo un downwind.",
+      "lead": "Es una operación armada para kiters que ya saben lo que es estar horas en el agua.",
+      "i1": {
+        "title": "Briefing diario",
+        "body": "Antes de cada salida analizamos juntos el tramo del día: puntos de descanso, hidratación, zonas de piedras, trampas de pescadores, sombras de viento y cualquier particularidad de la ruta."
+      },
+      "i2": {
+        "title": "Ruta",
+        "body": "Todos saben dónde vamos, dónde paramos y qué condiciones podemos encontrar."
+      },
+      "i3": {
+        "title": "Apoyo",
+        "body": "Nuestro equipo está preparado para acompañarte durante todo el recorrido."
+      }
+    },
+    "incluye": {
+      "kicker": "Qué incluye",
+      "title": "Lo que viaja con vos.",
+      "listTitle": "Incluido",
+      "item1": "5 noches de hospedaje",
+      "item2": "Desayunos, lunch e hidratación",
+      "item3": "Traslados y vuelta a Cumbuco",
+      "item4": "Capitán, 2 guías y 2 autos 4x4",
+      "item5": "Fotos y videos del viaje",
+      "item6": "Kit Indiana Kite Tribe",
+      "item7": "Asado día 1 y peixe na brasa día 3",
+      "notTitle": "No incluye",
+      "not1": "Vuelos",
+      "not2": "Equipo de kite / rental",
+      "not3": "Cenas días 2, 4 y 5",
+      "not4": "Seguro de viaje",
+      "not5": "Drinks extra"
+    },
+    "itinerario": {
+      "kicker": "Itinerario",
+      "title": "Día por día.",
+      "lead": "Misma ruta, dos ventanas en 2026.",
+      "oct": "6–10 octubre 2026",
+      "nov": "10–14 noviembre 2026",
+      "d1": {
+        "label": "Día 1",
+        "leg": "Cumbuco → Paracuru",
+        "body": "Cauípe, Pecém, Taibinha, Taíba. 41 km. Noche de asado incluido.",
+        "stay": "Paracuru"
+      },
+      "d2": {
+        "label": "Día 2",
+        "leg": "Paracuru → Baleia",
+        "body": "Capim-Açu, Lagoinha, Río Mundaú. 65 km, el más largo. Cena libre.",
+        "stay": "Baleia"
+      },
+      "d3": {
+        "label": "Día 3",
+        "leg": "Baleia → Almofala",
+        "body": "Apiques, Caetanos, Lagoa dos Patos. 52 km. Peixe na brasa incluido.",
+        "stay": "Almofala"
+      },
+      "d4": {
+        "label": "Día 4",
+        "leg": "Almofala → Arpoeiras",
+        "body": "Riozinho Mágico, Ilha do Guajiru, Arpoeiras. 32 km. Cena libre.",
+        "stay": "Arpoeiras"
+      },
+      "d5": {
+        "label": "Día 5",
+        "leg": "Arpoeiras → Jericoacoara",
+        "body": "Eólicas, Barrinha, Preá, Malhada. Viento muy fuerte. 52 km. Cierre en Jeri.",
+        "stay": "Jeri"
+      }
+    },
+    "precio": {
+      "kicker": "Reserva",
+      "title": "Sumate a la Tribe Indiana",
+      "from": "Últimos cupos desde",
+      "price": "USD 1.100",
+      "note": "Precio 2025 de referencia. 2026 se confirma por WhatsApp.",
+      "promo": "En 2025 los primeros cupos salieron a USD 1.000.",
+      "pix": "Efectivo o Pix.",
+      "cta": "Quiero ser parte de la Tribe Indiana",
+      "ctaOct": "Quiero octubre",
+      "ctaNov": "Quiero noviembre",
+      "level": "Intermedio o más · mínimo 30 km de downwind previo."
+    },
+    "footer": {
+      "copy": "Indiana Kite Tribe · Cumbuco, Ceará",
+      "v1": "Comparar con la versión anterior"
+    },
+    "wa": {
+      "generic": "Hola, quiero ser parte del Indiana Kite Tribe 2026 (Cumbuco a Jeri).",
+      "oct": "Hola, quiero un cupo en Indiana Kite Tribe 2026, salida 6 al 10 de octubre.",
+      "nov": "Hola, quiero un cupo en Indiana Kite Tribe 2026, salida 10 al 14 de noviembre."
+    }
+  },
+  "pt": {
+    "meta": {
+      "title": "Indiana Kite Tribe · Downwind 2026 · Cumbuco a Jeri",
+      "description": "5 dias downwind pela costa do Ceará. Briefing diário, guias, 4x4 e logística completa. 6-10 out e 10-14 nov 2026."
+    },
+    "nav": {
+      "experiencia": "Experiência",
+      "tramos": "Trechos",
+      "diferente": "Tribe",
+      "incluye": "Inclui",
+      "itinerario": "Itinerário",
+      "wa": "WhatsApp",
+      "menu": "Abrir menu",
+      "v1": "Ver v1"
+    },
+    "hero": {
+      "brand": "Indiana Kite Tribe",
+      "route": "Cumbuco → Jericoacoara",
+      "meta": "5 dias. 242 km.",
+      "windows": "6–10 outubro 2026 · 10–14 novembro 2026",
+      "cta": "Quero fazer parte da Tribe Indiana",
+      "lead": "Uma das melhores rotas de kitesurf do Brasil.",
+      "downwind": "Downwind",
+      "oct": "6–10 outubro 2026",
+      "nov": "10–14 novembro 2026"
+    },
+    "experiencia": {
+      "kicker": "A experiência",
+      "title": "242 km pela costa do Ceará.",
+      "sub": "Uma das melhores rotas de kitesurf do Brasil.",
+      "p1": "Cinco dias percorrendo a costa do Ceará downwind de Cumbuco até Jericoacoara, acompanhados por uma equipe profissional durante todo o percurso.",
+      "p2": "Cada manhã começamos com um briefing do trecho do dia: revisamos a rota, os pontos de descanso e hidratação, zonas de pedras, armadilhas de pescadores, sombras de vento e qualquer outro ponto importante do percurso.",
+      "p3": "Capitão na água, guias, veículos 4x4 de apoio, hospedagem, refeições, hidratação e toda a logística para você só se preocupar em navegar e aproveitar.",
+      "cta": "Quero me juntar ao downwind"
+    },
+    "tramos": {
+      "kicker": "Cumbuco → Jeri",
+      "title": "Cinco trechos, cinco histórias.",
+      "lead": "Cada dia tem o seu percurso, os seus waypoints e o seu vento.",
+      "leg1": {
+        "km": "41 km",
+        "hook": "O trecho mais importante para quem quer dominar o downwind no Nordeste.",
+        "body": [
+          "Cumbuco → Paracuru reúne, em um só dia, uma enorme variedade de condições de vento, mar e geografia. Quem domina esse percurso sai preparado para encarar praticamente qualquer downwind do Nordeste.",
+          "Saímos de Cumbuco rumo a Paracuru, passando pela Lagoa do Cauípe, o porto de Pecém e o spot de ondas de Taibinha, até chegar à Lagoa de Taíba. Um percurso que combina velocidade, ondas, lagoas e diferentes ângulos de vento."
+        ],
+        "waypoints": [
+          "Lagoa do Cauípe",
+          "Porto de Pecém",
+          "Taibinha",
+          "Lagoa de Taíba"
+        ],
+        "wind": "Uma enorme variedade de vento, mar e geografia em um só dia.",
+        "dest": "Paracuru · La Petite Mansion Beach Club"
+      },
+      "leg2": {
+        "km": "65 km",
+        "hook": "Saímos de Paracuru, contornamos por trás do porto e chegamos à foz do Rio Curu.",
+        "body": [
+          "A partir daí começa uma das partes mais selvagens da rota: a praia deserta e paradisíaca de Capim-Açu.",
+          "Chegamos a Lagoinha, a nossa verdadeira pista de corrida. Um trecho de vento perfeito, longas sessões de ondas e quilômetros de praia para acelerar.",
+          "Seguimos atravessando paisagens praticamente intactas e passamos pela foz do Rio Mundaú, um dos grandes cenários naturais da costa, até chegar à Praia da Baleia."
+        ],
+        "waypoints": [
+          "Rio Curu",
+          "Capim-Açu",
+          "Lagoinha",
+          "Rio Mundaú",
+          "Praia da Baleia"
+        ],
+        "wind": "Lagoinha é a pista de corrida: vento perfeito e quilômetros para acelerar.",
+        "dest": "Baleia · pousada a confirmar"
+      },
+      "leg3": {
+        "km": "52 km",
+        "hook": "De Baleia começa um longo trecho de praias desertas e paisagens paradisíacas.",
+        "body": [
+          "Passamos por pequenas comunidades de pescadores como Apiques e Caetanos, lugares isolados onde a sensação de estar longe de tudo vira parte da experiência.",
+          "No caminho encontramos um dos pontos mais curiosos da rota: um antigo cemitério sobre as dunas, literalmente a poucos metros do mar.",
+          "Continuamos até Icaraí de Amontada e Praia de Moitas, seguindo a costa até a foz do Rio Aracatiaçu.",
+          "Dependendo da maré, podemos entrar na Lagoa dos Patos, um braço de mar escondido entre dunas, com água salgada e um pequeno rio de água completamente flat.",
+          "Depois de passar por Praia dos Torrões, seguimos até Almofala, onde termina um dos dias mais longos e variados da travessia."
+        ],
+        "waypoints": [
+          "Apiques",
+          "Caetanos",
+          "Cemitério nas dunas",
+          "Icaraí de Amontada",
+          "Praia de Moitas",
+          "Rio Aracatiaçu",
+          "Lagoa dos Patos",
+          "Praia dos Torrões"
+        ],
+        "wind": "Se a maré der, entra-se na Lagoa dos Patos: água salgada e um braço flat entre dunas.",
+        "dest": "Almofala · pousada a confirmar"
+      },
+      "leg4": {
+        "km": "32 km",
+        "hook": "Mal saímos de Almofala encontramos um dos lugares favoritos dos nossos guias: o famoso Riozinho Mágico.",
+        "body": [
+          "É um pequeno braço de água salgada, escondido entre as dunas e protegido do vento. Um lugar secreto que só se encontra conhecendo bem a rota. A água fica completamente flat e permite uma experiência totalmente diferente do mar aberto.",
+          "Esse trecho também é uma preparação para um dos momentos mais especiais da viagem: a chegada à Ilha do Guajiru. Dependendo da maré, podemos entrar por dentro da lagoa e atravessar o mangue.",
+          "Depois da pausa, voltamos ao mar e encaramos um trecho com uma enorme variação de maré até chegar à Praia de Arpoeiras, no município de Acaraú.",
+          "Aqui a maré transforma completamente a paisagem. Dependendo do momento do dia, podemos estar navegando praticamente ao lado da pousada ou a vários quilômetros dela. É um daqueles lugares que mostram por que conhecer a rota e saber ler as condições é parte fundamental do downwind."
+        ],
+        "waypoints": [
+          "Riozinho Mágico",
+          "Ilha do Guajiru",
+          "Praia de Arpoeiras"
+        ],
+        "wind": "Em Arpoeiras a maré muda tudo: ao lado da pousada ou a quilômetros.",
+        "dest": "Arpoeiras · pousada a confirmar"
+      },
+      "leg5": {
+        "km": "52 km",
+        "hook": "Atenção, dia com vento MUITO FORTE.",
+        "body": [
+          "O último dia é o que nos leva ao nosso objetivo: Jericoacoara.",
+          "Começamos o dia pelas famosas eólicas e entramos na Barrinha, um cenário paradisíaco de dunas e vegetação de mangue.",
+          "Chegamos ao Preá com o vento estourando, spot que está no hype mundial.",
+          "Saindo do Preá, navegamos acompanhando a estrada até Jeri, passamos por alguns cartões-postais vistos do mar: a Árvore da Preguiça, a placa do kitesurf, a Pedra Furada e a Praia da Malhada. Já falei que o vento é estupidamente forte?",
+          "Depois da Malhada é preciso seguir em alto-mar e ter muito cuidado na hora de girar para a esquerda, em direção a Jericoacoara. O vento ali é terral, sopra forte offshore. Atenção total para girar e posicionar o kite em direção à antiga duna do pôr do sol.",
+          "Dali chegamos à vila de pescadores mais badalada internacionalmente do Ceará, Jericoacoara.",
+          "Chegar a Jericoacoara navegando desde Cumbuco não é simplesmente completar uma rota: é ter aprendido a ler a costa, adaptar-se às condições e dominar um dos grandes downwinds do Nordeste do Brasil."
+        ],
+        "waypoints": [
+          "Eólicas",
+          "Barrinha",
+          "Preá",
+          "Árvore da Preguiça",
+          "Placa do kitesurf",
+          "Pedra Furada",
+          "Praia da Malhada"
+        ],
+        "wind": "Depois da Malhada o vento é terral, forte offshore. Atenção total para girar rumo a Jeri.",
+        "dest": "Jericoacoara · pousada a confirmar"
+      }
+    },
+    "diferente": {
+      "kicker": "O que diferencia a Indiana Kite Tribe",
+      "title": "Não é só um downwind.",
+      "lead": "É uma operação armada para kiters que já sabem o que é ficar horas na água.",
+      "i1": {
+        "title": "Briefing diário",
+        "body": "Antes de cada saída analisamos juntos o trecho do dia: pontos de descanso, hidratação, zonas de pedras, armadilhas de pescadores, sombras de vento e qualquer particularidade da rota."
+      },
+      "i2": {
+        "title": "Rota",
+        "body": "Todo mundo sabe para onde vamos, onde paramos e que condições podemos encontrar."
+      },
+      "i3": {
+        "title": "Apoio",
+        "body": "Nossa equipe está preparada para te acompanhar durante todo o percurso."
+      }
+    },
+    "incluye": {
+      "kicker": "O que inclui",
+      "title": "O que viaja com você.",
+      "listTitle": "Incluído",
+      "item1": "5 noites de hospedagem",
+      "item2": "Cafés da manhã, lunch e hidratação",
+      "item3": "Transfers e volta para Cumbuco",
+      "item4": "Capitão, 2 guias e 2 carros 4x4",
+      "item5": "Fotos e vídeos da viagem",
+      "item6": "Kit Indiana Kite Tribe",
+      "item7": "Churrasco no dia 1 e peixe na brasa no dia 3",
+      "notTitle": "Não inclui",
+      "not1": "Voos",
+      "not2": "Equipamento de kite / rental",
+      "not3": "Jantares nos dias 2, 4 e 5",
+      "not4": "Seguro viagem",
+      "not5": "Drinks extras"
+    },
+    "itinerario": {
+      "kicker": "Itinerário",
+      "title": "Dia a dia.",
+      "lead": "A mesma rota, duas janelas em 2026.",
+      "oct": "6–10 outubro 2026",
+      "nov": "10–14 novembro 2026",
+      "d1": {
+        "label": "Dia 1",
+        "leg": "Cumbuco → Paracuru",
+        "body": "Cauípe, Pecém, Taibinha, Taíba. 41 km. Noite de churrasco incluída.",
+        "stay": "Paracuru"
+      },
+      "d2": {
+        "label": "Dia 2",
+        "leg": "Paracuru → Baleia",
+        "body": "Capim-Açu, Lagoinha, Rio Mundaú. 65 km, o mais longo. Jantar livre.",
+        "stay": "Baleia"
+      },
+      "d3": {
+        "label": "Dia 3",
+        "leg": "Baleia → Almofala",
+        "body": "Apiques, Caetanos, Lagoa dos Patos. 52 km. Peixe na brasa incluído.",
+        "stay": "Almofala"
+      },
+      "d4": {
+        "label": "Dia 4",
+        "leg": "Almofala → Arpoeiras",
+        "body": "Riozinho Mágico, Ilha do Guajiru, Arpoeiras. 32 km. Jantar livre.",
+        "stay": "Arpoeiras"
+      },
+      "d5": {
+        "label": "Dia 5",
+        "leg": "Arpoeiras → Jericoacoara",
+        "body": "Eólicas, Barrinha, Preá, Malhada. Vento muito forte. 52 km. Chegada em Jeri.",
+        "stay": "Jeri"
+      }
+    },
+    "precio": {
+      "kicker": "Reserva",
+      "title": "Entra na Tribe Indiana",
+      "from": "Últimas vagas a partir de",
+      "price": "USD 1.100",
+      "note": "Preço 2025 de referência. 2026 se confirma no WhatsApp.",
+      "promo": "Em 2025 os primeiros cupos saíram a USD 1.000.",
+      "pix": "Dinheiro ou Pix.",
+      "cta": "Quero fazer parte da Tribe Indiana",
+      "ctaOct": "Quero outubro",
+      "ctaNov": "Quero novembro",
+      "level": "Intermediário ou mais · mínimo 30 km de downwind prévio."
+    },
+    "footer": {
+      "copy": "Indiana Kite Tribe · Cumbuco, Ceará",
+      "v1": "Comparar com a versão anterior"
+    },
+    "wa": {
+      "generic": "Oi, quero fazer parte do Indiana Kite Tribe 2026 (Cumbuco a Jeri).",
+      "oct": "Oi, quero uma vaga no Indiana Kite Tribe 2026, saída de 6 a 10 de outubro.",
+      "nov": "Oi, quero uma vaga no Indiana Kite Tribe 2026, saída de 10 a 14 de novembro."
+    }
+  },
+  "en": {
+    "meta": {
+      "title": "Indiana Kite Tribe · Downwind 2026 · Cumbuco a Jeri",
+      "description": "5-day downwind along the Ceará coast. Daily briefing, guides, 4x4 support, full logistics. 6–10 Oct and 10–14 Nov 2026."
+    },
+    "nav": {
+      "experiencia": "Experience",
+      "tramos": "Legs",
+      "diferente": "Tribe",
+      "incluye": "Includes",
+      "itinerario": "Itinerary",
+      "wa": "WhatsApp",
+      "menu": "Open menu",
+      "v1": "View v1"
+    },
+    "hero": {
+      "brand": "Indiana Kite Tribe",
+      "route": "Cumbuco → Jericoacoara",
+      "meta": "5 days. 242 km.",
+      "windows": "6–10 October 2026 · 10–14 November 2026",
+      "cta": "I want to join the Indiana Tribe",
+      "lead": "One of the best kitesurf routes in Brazil.",
+      "downwind": "Downwind",
+      "oct": "6–10 October 2026",
+      "nov": "10–14 November 2026"
+    },
+    "experiencia": {
+      "kicker": "The experience",
+      "title": "242 km along the Ceará coast.",
+      "sub": "One of the best kitesurf routes in Brazil.",
+      "p1": "Five days downwind along the Ceará coast from Cumbuco to Jericoacoara, with a professional team the whole way.",
+      "p2": "Every morning starts with a briefing for that day's leg: we go over the route, rest and hydration stops, rock zones, fishing traps, wind shadows, and anything else that matters on the run.",
+      "p3": "Captain on the water, guides, support 4x4s, lodging, meals, hydration, and the full logistics so you only have to worry about riding and enjoying it.",
+      "cta": "I want to join the downwind"
+    },
+    "tramos": {
+      "kicker": "Cumbuco → Jeri",
+      "title": "Five legs, five stories.",
+      "lead": "Each day has its own run, its waypoints, and its wind.",
+      "leg1": {
+        "km": "41 km",
+        "hook": "The most important leg if you want to own downwind in the Northeast.",
+        "body": [
+          "Cumbuco → Paracuru packs, in a single day, a huge range of wind, sea, and geography. Anyone who owns this run leaves ready for almost any downwind in the Northeast.",
+          "We leave Cumbuco toward Paracuru, past Cauípe Lagoon, Pecém port, and the wave spot at Taibinha, until we reach Taíba Lagoon. Speed, waves, lagoons, and shifting wind angles in one run."
+        ],
+        "waypoints": [
+          "Cauípe Lagoon",
+          "Pecém port",
+          "Taibinha",
+          "Taíba Lagoon"
+        ],
+        "wind": "A huge range of wind, sea, and geography in a single day.",
+        "dest": "Paracuru · La Petite Mansion Beach Club"
+      },
+      "leg2": {
+        "km": "65 km",
+        "hook": "We leave Paracuru, skirt behind the port, and reach the mouth of the Curu River.",
+        "body": [
+          "From there one of the wildest stretches of the route begins: the empty, paradise beach of Capim-Açu.",
+          "We hit Lagoinha, our real racetrack. Perfect wind, long wave sessions, and kilometres of beach to open it up.",
+          "We keep crossing almost untouched landscape and pass the mouth of the Mundaú River, one of the big natural stages on this coast, until we arrive at Praia da Baleia."
+        ],
+        "waypoints": [
+          "Curu River",
+          "Capim-Açu",
+          "Lagoinha",
+          "Mundaú River",
+          "Praia da Baleia"
+        ],
+        "wind": "Lagoinha is the racetrack: perfect wind and kilometres to open it up.",
+        "dest": "Baleia · stay to confirm"
+      },
+      "leg3": {
+        "km": "52 km",
+        "hook": "From Baleia a long stretch of empty beaches and wild coast begins.",
+        "body": [
+          "We pass small fishing communities like Apiques and Caetanos, isolated places where being far from everything is part of the day.",
+          "Along the way we hit one of the strangest points on the route: an old cemetery on the dunes, a few metres from the sea.",
+          "We continue to Icaraí de Amontada and Praia de Moitas, following the coast to the mouth of the Aracatiaçu River.",
+          "Depending on the tide, we can enter Lagoa dos Patos, a hidden arm of the sea between dunes, salt water and a small river that's completely flat.",
+          "After Praia dos Torrões we keep going to Almofala, where one of the longest and most varied days of the crossing ends."
+        ],
+        "waypoints": [
+          "Apiques",
+          "Caetanos",
+          "Cemetery on the dunes",
+          "Icaraí de Amontada",
+          "Praia de Moitas",
+          "Aracatiaçu River",
+          "Lagoa dos Patos",
+          "Praia dos Torrões"
+        ],
+        "wind": "If the tide allows, we enter Lagoa dos Patos: salt water and a flat arm between dunes.",
+        "dest": "Almofala · stay to confirm"
+      },
+      "leg4": {
+        "km": "32 km",
+        "hook": "Right after leaving Almofala we hit one of our guides' favourite spots: the Riozinho Mágico.",
+        "body": [
+          "It's a small saltwater arm, hidden between the dunes and sheltered from the wind. A secret you only find if you know the route. The water goes completely flat, a totally different ride from open ocean.",
+          "This leg is also the setup for one of the special moments of the trip: arriving at Ilha do Guajiru. Depending on the tide, we can enter through the lagoon and cross the mangrove.",
+          "After the pause we go back to the sea and take on a stretch with huge tidal range until Praia de Arpoeiras, in Acaraú.",
+          "Here the tide rewrites the landscape. Depending on the time of day, you might be riding right next to the pousada or kilometres away from it. This is why knowing the route and reading the conditions is core to downwind."
+        ],
+        "waypoints": [
+          "Riozinho Mágico",
+          "Ilha do Guajiru",
+          "Praia de Arpoeiras"
+        ],
+        "wind": "In Arpoeiras the tide changes everything: next to the pousada or kilometres away.",
+        "dest": "Arpoeiras · stay to confirm"
+      },
+      "leg5": {
+        "km": "52 km",
+        "hook": "Heads up: a VERY STRONG wind day.",
+        "body": [
+          "The last day is the one that takes us to the goal: Jericoacoara.",
+          "We start by the famous wind turbines and enter the Barrinha, a stretch of dunes and mangrove.",
+          "We reach Preá with the wind exploding, a spot that's on the world hype list.",
+          "Leaving Preá we ride along the road toward Jeri and pass a few postcard landmarks from the water: the Sloth Tree, the kitesurf sign, Pedra Furada, and Praia da Malhada. Did I mention the wind is stupidly strong?",
+          "After Malhada you have to stay offshore and be very careful when you turn left toward Jericoacoara. The wind there is terral, blowing hard offshore. Full attention to turn and set the kite toward the old sunset dune.",
+          "From there we arrive at the most internationally hyped fishing village in Ceará: Jericoacoara.",
+          "Getting to Jericoacoara by kite from Cumbuco isn't just finishing a route. It's having learned to read the coast, adapt to its conditions, and own one of the great downwinds of Northeast Brazil."
+        ],
+        "waypoints": [
+          "Wind turbines",
+          "Barrinha",
+          "Preá",
+          "Sloth Tree",
+          "Kitesurf sign",
+          "Pedra Furada",
+          "Praia da Malhada"
+        ],
+        "wind": "After Malhada the wind is terral, hard offshore. Full attention when you turn toward Jeri.",
+        "dest": "Jericoacoara · stay to confirm"
+      }
+    },
+    "diferente": {
+      "kicker": "What makes Indiana Kite Tribe different",
+      "title": "This isn't just a downwind.",
+      "lead": "It's an operation built for kiters who already know what hours on the water feel like.",
+      "i1": {
+        "title": "Daily briefing",
+        "body": "Before every launch we go through that day's leg together: rest stops, hydration, rock zones, fishing traps, wind shadows, and anything particular about the route."
+      },
+      "i2": {
+        "title": "Route",
+        "body": "Everyone knows where we're going, where we stop, and what conditions we might find."
+      },
+      "i3": {
+        "title": "Support",
+        "body": "Our team is set up to stay with you for the whole run."
+      }
+    },
+    "incluye": {
+      "kicker": "What's included",
+      "title": "What travels with you.",
+      "listTitle": "Included",
+      "item1": "5 nights lodging",
+      "item2": "Breakfasts, lunch, and hydration",
+      "item3": "Transfers and return to Cumbuco",
+      "item4": "Captain, 2 guides, and 2 4x4s",
+      "item5": "Trip photos and video",
+      "item6": "Indiana Kite Tribe kit",
+      "item7": "Asado on day 1 and peixe na brasa on day 3",
+      "notTitle": "Not included",
+      "not1": "Flights",
+      "not2": "Kite gear / rental",
+      "not3": "Dinners on days 2, 4, and 5",
+      "not4": "Travel insurance",
+      "not5": "Extra drinks"
+    },
+    "itinerario": {
+      "kicker": "Itinerary",
+      "title": "Day by day.",
+      "lead": "Same route, two windows in 2026.",
+      "oct": "6–10 October 2026",
+      "nov": "10–14 November 2026",
+      "d1": {
+        "label": "Day 1",
+        "leg": "Cumbuco → Paracuru",
+        "body": "Cauípe, Pecém, Taibinha, Taíba. 41 km. Asado night included.",
+        "stay": "Paracuru"
+      },
+      "d2": {
+        "label": "Day 2",
+        "leg": "Paracuru → Baleia",
+        "body": "Capim-Açu, Lagoinha, Mundaú River. 65 km, the longest. Dinner on you.",
+        "stay": "Baleia"
+      },
+      "d3": {
+        "label": "Day 3",
+        "leg": "Baleia → Almofala",
+        "body": "Apiques, Caetanos, Lagoa dos Patos. 52 km. Peixe na brasa included.",
+        "stay": "Almofala"
+      },
+      "d4": {
+        "label": "Day 4",
+        "leg": "Almofala → Arpoeiras",
+        "body": "Riozinho Mágico, Ilha do Guajiru, Arpoeiras. 32 km. Dinner on you.",
+        "stay": "Arpoeiras"
+      },
+      "d5": {
+        "label": "Day 5",
+        "leg": "Arpoeiras → Jericoacoara",
+        "body": "Wind turbines, Barrinha, Preá, Malhada. Very strong wind. 52 km. Finish in Jeri.",
+        "stay": "Jeri"
+      }
+    },
+    "precio": {
+      "kicker": "Book",
+      "title": "Join the Indiana Tribe",
+      "from": "Last spots from",
+      "price": "USD 1.100",
+      "note": "2025 reference price. 2026 confirmed on WhatsApp.",
+      "promo": "In 2025 the first spots went out at USD 1,000.",
+      "pix": "Cash or Pix.",
+      "cta": "I want to join the Indiana Tribe",
+      "ctaOct": "I want October",
+      "ctaNov": "I want November",
+      "level": "Intermediate or above · at least 30 km of prior downwind."
+    },
+    "footer": {
+      "copy": "Indiana Kite Tribe · Cumbuco, Ceará",
+      "v1": "Compare with the previous version"
+    },
+    "wa": {
+      "generic": "Hi, I want to join Indiana Kite Tribe 2026 (Cumbuco to Jeri).",
+      "oct": "Hi, I want a spot on Indiana Kite Tribe 2026, 6–10 October departure.",
+      "nov": "Hi, I want a spot on Indiana Kite Tribe 2026, 10–14 November departure."
+    }
+  }
+}
